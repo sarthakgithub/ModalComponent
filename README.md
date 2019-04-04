@@ -1,2 +1,0 @@
-# ModalComponent
-Created with CodeSandbox

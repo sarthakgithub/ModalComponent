@@ -1,0 +1,31 @@
+.App {
+  font-family: sans-serif;
+  text-align: center;
+}
+
+.overlay {
+  position: fixed;
+  top: 0;
+  bottom: 0;
+  left: 0;
+  right: 0;
+  background: rgba(0, 0, 0, 0.7);
+}
+
+.modal {
+  width: 100px;
+  padding: 6.2rem 8.5rem 2.2rem 8.5rem;
+  position: absolute;
+  top: 50%;
+  left: 50%;
+  border-radius: 5px;
+  background: #fff;
+  transform: translate(-50%, -50%);
+}
+
+.close-button {
+  cursor: pointer;
+  position: absolute;
+  top: 1rem;
+  right: 1rem;
+}
